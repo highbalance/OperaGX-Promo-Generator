@@ -16,9 +16,10 @@ How to Use
 
 pip install requests
 
-    Enter proxies in proxies.txt in the following format:
+    Enter proxies in proxy.txt in the following format:
 
 host:port
+get proxy from https://proxyscrape.com/free-proxy-list
 
     Run the Script:
 
